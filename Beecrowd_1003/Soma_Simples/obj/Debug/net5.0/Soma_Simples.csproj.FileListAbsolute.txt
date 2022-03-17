@@ -1,0 +1,15 @@
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\Soma_Simples.exe
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\Soma_Simples.deps.json
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\Soma_Simples.runtimeconfig.json
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\Soma_Simples.runtimeconfig.dev.json
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\Soma_Simples.dll
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\ref\Soma_Simples.dll
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\bin\Debug\net5.0\Soma_Simples.pdb
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.AssemblyInfoInputs.cache
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.AssemblyInfo.cs
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.csproj.CoreCompileInputs.cache
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.dll
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\ref\Soma_Simples.dll
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.pdb
+D:\Logica_de_Programacao\Soma_Simples\Soma_Simples\obj\Debug\net5.0\Soma_Simples.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\Beecrowd_1013.exe
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\Beecrowd_1013.deps.json
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\Beecrowd_1013.runtimeconfig.json
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\Beecrowd_1013.runtimeconfig.dev.json
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\Beecrowd_1013.dll
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\ref\Beecrowd_1013.dll
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\bin\Debug\net5.0\Beecrowd_1013.pdb
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.AssemblyInfoInputs.cache
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.AssemblyInfo.cs
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.csproj.CoreCompileInputs.cache
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.dll
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\ref\Beecrowd_1013.dll
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.pdb
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.genruntimeconfig.cache
+D:\Logica_de_Programacao\Beecrowd_1013\Beecrowd_1013\obj\Debug\net5.0\Beecrowd_1013.csproj.AssemblyReference.cache
