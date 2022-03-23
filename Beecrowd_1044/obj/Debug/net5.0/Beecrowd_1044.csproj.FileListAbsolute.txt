@@ -1,0 +1,15 @@
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\Beecrowd_1044.exe
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\Beecrowd_1044.deps.json
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\Beecrowd_1044.runtimeconfig.json
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\Beecrowd_1044.runtimeconfig.dev.json
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\Beecrowd_1044.dll
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\ref\Beecrowd_1044.dll
+D:\Logica_de_Programacao\Beecrowd_1044\bin\Debug\net5.0\Beecrowd_1044.pdb
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.AssemblyInfoInputs.cache
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.AssemblyInfo.cs
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.csproj.CoreCompileInputs.cache
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.dll
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\ref\Beecrowd_1044.dll
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.pdb
+D:\Logica_de_Programacao\Beecrowd_1044\obj\Debug\net5.0\Beecrowd_1044.genruntimeconfig.cache

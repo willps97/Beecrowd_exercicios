@@ -1,0 +1,16 @@
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\BeeCrowd_1042.exe
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\BeeCrowd_1042.deps.json
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\BeeCrowd_1042.runtimeconfig.json
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\BeeCrowd_1042.runtimeconfig.dev.json
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\BeeCrowd_1042.dll
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\ref\BeeCrowd_1042.dll
+D:\Logica_de_Programacao\BeeCrowd_1042\bin\Debug\net5.0\BeeCrowd_1042.pdb
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.csproj.AssemblyReference.cache
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.AssemblyInfoInputs.cache
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.AssemblyInfo.cs
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.csproj.CoreCompileInputs.cache
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.dll
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\ref\BeeCrowd_1042.dll
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.pdb
+D:\Logica_de_Programacao\BeeCrowd_1042\obj\Debug\net5.0\BeeCrowd_1042.genruntimeconfig.cache
